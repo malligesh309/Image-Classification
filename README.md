@@ -32,8 +32,8 @@ Test the model on unseen data, compute accuracy, and analyze results using a con
 ### STEP 7: Model Deployment & Visualization
 Save the trained model, visualize predictions, and integrate it into an application if needed.
 
-### Name: Aaron I
-### Register Number: 212223230002
+### Name: Malligesh M
+### Register Number: 212223230119
 ```python
 class CNNClassifier(nn.Module):
     def __init__(self):
